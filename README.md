@@ -1,4 +1,4 @@
-![SKL logo](https://github.com/pipidog/SKLclass/raw/master/SKL_logo.png)
+![SKL logo](https://github.com/pipidog/SKLclass/raw/master/SKL_logo.jpg)
 This is the reposity of my course: "Machine Learning Using Scikit-Learn".
 
 Scikit-Learn (sklearn) is a "model-oriented" machine learning toolkit. 
